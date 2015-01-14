@@ -13,7 +13,21 @@ border: 0px solid white;
 background: #669999;
 padding:5px;
 }
-#center {
+
+
+
+width: 950px;
+height: 100px;
+position: absolute;
+top:220px;
+left:300;
+-webkit-border-radius:6px; 
+-moz-border-radius:5px; 
+-khtml-border-radius:10px;
+padding-top:12px;
+}
+
+/*#center {
 width: 950px;
 height: 100px;
 position: absolute;
@@ -26,7 +40,7 @@ border-radius:6px;
 -moz-border-radius:5px; 
 -khtml-border-radius:10px;
 padding:5px;
-}
+}*/
 
 #center1 {
 width: 950px;
