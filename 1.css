@@ -19,13 +19,13 @@ height: 100px;
 position: absolute;
 top:220px;
 left:200px;
-border: 1px solid white;
-background: #669999;
+border: 10px solid white;
+background: #000000;
 border-radius:6px; 
 -webkit-border-radius:6px; 
 -moz-border-radius:5px; 
 -khtml-border-radius:10px;
-padding:5px;
+padding:10px;
 }
 
 #center1 {
